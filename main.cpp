@@ -21,3 +21,4 @@ int main() {
 	std::cin >> timeAmt;
 	foo->timer(timeAmt);
 }
+
